@@ -1,0 +1,32 @@
+Ctrl+E, F2 - TextEditor.JumpToFileUnderCursorInNextSplit
+Ctrl+E, F2 - TextEditor.FollowSymbolUnderCursorInNextSplit
+Ctrl+F - Find.FindInCurrentDocument
+Ctrl+F2 - CppEditor.OpenDeclarationDefinitionNextSplit
+Ctrl+F3 - Find.FindNextSelected
+Ctrl+F6 - Debugger.RunToSelectedFunction
+Ctrl+F10 - Debugger.RunToLine
+Ctrl+G - Find.FindNext
+Ctrl+Shift+F - Find.Dialog
+Ctrl+Shift+F3 - Find.FindPreviousSelected
+Ctrl+Shift+F11 - QtCreator.ToggleFullScreen
+Ctrl+Shift+F12 - CppEditor.InspectCppCodeModel
+Ctrl+Shift+G - Find.FindPrevious
+Ctrl+Shift+R - CppEditor.RenameSymbolUnderCursor
+F1 - Help.Context
+F2 - TextEditor.FollowSymbolUnderCursor
+F2 - TextEditor.JumpToFileUnderCursor
+F2 - QmlDesigner.GoIntoComponent
+F3 - CppEditor.FindUsages
+F4 - CppEditor.SwitchHeaderSource
+F4 - QmlDesigner.SwitchTextDesign
+F5 - Debugger.Continue
+F5 - Debugger.Debug
+F6 - Coreplugin.OutputPane.nextitem
+F9 - Debugger.ToggleBreak
+F10 - Debugger.NextLine
+F11 - Debugger.StepLine
+Shift+F2 - CppEditor.SwitchDeclarationDefinition
+Shift+F4 - FormEditor.FormSwitchSource
+Shift+F5 - Debugger.HiddenStop
+Shift+F6 - Coreplugin.OutputPane.previtem
+Shift+F11 - Debugger.StepOut
