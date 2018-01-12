@@ -77,7 +77,9 @@
  <shortcut id="Qt4Builder.BuildSubDir"/>
  <shortcut id="Qt4Builder.BuildFileContextMenu"/>
  <shortcut id="Qt4Builder.RebuildSubDir"/>
- <shortcut id="Qt4Builder.RunQMake"/>
+ <shortcut id="Qt4Builder.RunQMake">
+  <key value="Ctrl+Shift+Q"/>
+ </shortcut>
  <shortcut id="Qt4Builder.RunQMakeContextMenu"/>
  <shortcut id="Qt4Builder.CleanSubDirContextMenu"/>
  <shortcut id="Qt4Builder.RebuildSubDirContextMenu"/>
@@ -492,7 +494,9 @@
  <shortcut id="ProjectExplorer.Build">
   <key value="Ctrl+B"/>
  </shortcut>
- <shortcut id="ProjectExplorer.Clean"/>
+ <shortcut id="ProjectExplorer.Clean">
+  <key value="Ctrl+`"/>
+ </shortcut>
  <shortcut id="ProjectExplorer.Rebuild"/>
  <shortcut id="ProjectExplorer.DeploySession"/>
  <shortcut id="ProjectExplorer.BuildSession">
@@ -884,7 +888,9 @@
   <key value="Ctrl+Shift+F11"/>
  </shortcut>
  <shortcut id="Locator.Subversion"/>
- <shortcut id="QtCreator.Options"/>
+ <shortcut id="QtCreator.Options">
+  <key value="F12"/>
+ </shortcut>
  <shortcut id="Locator.Run external tool"/>
  <shortcut id="QtCreator.Paste">
   <key value="Ctrl+V"/>

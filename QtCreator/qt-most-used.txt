@@ -1,3 +1,6 @@
+Ctrl+` - ProjectExplorer.Clean
+Ctrl+B - ProjectExplorer.Build
+Ctrl+E, 0 - QtCreator.RemoveCurrentSplit
 Ctrl+E, F2 - TextEditor.JumpToFileUnderCursorInNextSplit
 Ctrl+E, F2 - TextEditor.FollowSymbolUnderCursorInNextSplit
 Ctrl+F - Find.FindInCurrentDocument
@@ -11,6 +14,7 @@ Ctrl+Shift+F3 - Find.FindPreviousSelected
 Ctrl+Shift+F11 - QtCreator.ToggleFullScreen
 Ctrl+Shift+F12 - CppEditor.InspectCppCodeModel
 Ctrl+Shift+G - Find.FindPrevious
+Ctrl+Shift+Q - Qt4Builder.RunQMake
 Ctrl+Shift+R - CppEditor.RenameSymbolUnderCursor
 F1 - Help.Context
 F2 - TextEditor.FollowSymbolUnderCursor
@@ -25,6 +29,7 @@ F6 - Coreplugin.OutputPane.nextitem
 F9 - Debugger.ToggleBreak
 F10 - Debugger.NextLine
 F11 - Debugger.StepLine
+F12 - QtCreator.Options
 Shift+F2 - CppEditor.SwitchDeclarationDefinition
 Shift+F4 - FormEditor.FormSwitchSource
 Shift+F5 - Debugger.HiddenStop
