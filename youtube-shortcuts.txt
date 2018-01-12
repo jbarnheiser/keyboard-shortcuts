@@ -1,0 +1,3 @@
+<space> - start and stop video
+Shift+. - increase playing speed
+Shift+, - decrease playing speed
